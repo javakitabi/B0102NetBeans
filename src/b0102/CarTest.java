@@ -13,7 +13,7 @@ package b0102;
  * </p>
  *
  */
-public class CarTest {
+public class CarTest{
 
     /**
      * <code>main</code> metodda {@link Car} objeleri üretilir ve durumları
